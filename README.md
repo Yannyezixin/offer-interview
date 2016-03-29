@@ -8,3 +8,5 @@
 [面试题5: 从尾到头打印链表](https://github.com/Yannyezixin/offer-interview/blob/master/solution/5.py)
 
 [面试题7: 用两个栈实现队列](https://github.com/Yannyezixin/offer-interview/blob/master/solution/7.py)
+
+[面试题8: 旋转数组中的最小数字](https://github.com/Yannyezixin/offer-interview/blob/master/solution/8.py)
