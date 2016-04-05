@@ -12,3 +12,5 @@
 [面试题8: 旋转数组中的最小数字](https://github.com/Yannyezixin/offer-interview/blob/master/solution/8.py)
 
 [面试题9: 斐波那契数列](https://github.com/Yannyezixin/offer-interview/blob/master/solution/9.py)
+
+[面试题10: 二进制中1的个数](https://github.com/Yannyezixin/offer-interview/blob/master/solution/10.py)
